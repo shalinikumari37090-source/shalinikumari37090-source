@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👩‍💻 Shalini Kumari | Data Analyst & Aspiring Data Scientist
 
-<!--
-**shalinikumari37090-source/shalinikumari37090-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Shalini — a data enthusiast who thrives on transforming raw datasets into meaningful insights and interactive stories. Whether it's debugging a stubborn pipeline or designing a dashboard that speaks for itself, I bring persistence, precision, and creativity to every challenge.
 
-Here are some ideas to get you started:
+## 🔍 What I Do
+- Clean, wrangle, and analyze real-world data using **Python**, **pandas**, and **scikit-learn**
+- Build and troubleshoot **machine learning workflows** for practical applications
+- Design **interactive dashboards** in **Power BI** and **Python** to make data accessible
+- Apply statistical thinking and visual storytelling to uncover patterns and drive decisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Value
+- **Clarity** in communication, **depth** in analysis, and **resilience** in problem-solving
+- A growth mindset — every bug is a lesson, every dataset a new adventure
+- Making technical concepts **engaging and accessible** through creative presentations
+
+## 📊 Featured Projects
+- **[GitHub Hello World Interactive Guide](link)**: A visual walkthrough designed to make onboarding fun and intuitive
+- **[Data Pipeline Debugger](link)**: A hands-on project focused on troubleshooting file handling and JSON workflows
+- **[Power BI Dashboard Showcase](link)**: Real-time insights with clean design and dynamic filtering
+
+## 🌱 Currently Exploring
+- Deep learning fundamentals with PyTorch
+- Advanced visualization techniques for storytelling
+- Real-time data integration and automation
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/extraterrestrial-being-59647735a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
+- 🌐 [Portfolio](your-link)
+- ✉️ Reach out for collaboration, feedback, or just a good data chat!
+
+---
+
+🧠 *“Data is not just numbers — it’s a story waiting to be told. Let’s make it unforgettable.”*
+
