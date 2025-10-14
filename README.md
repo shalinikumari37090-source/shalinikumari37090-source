@@ -29,6 +29,9 @@ Welcome to my GitHub profile! I'm Shalini — a data enthusiast who thrives on t
 ### 🔹 [CarDekho Car Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_dekho)  
 Linear Regression model to predict used car prices. Includes EDA, feature engineering, and performance metrics.
 
+### 🔹 [Car Price Prediction with Random Forest](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_car_price_predict)  
+Built a RandomForestRegressor model to estimate used car prices. Includes EDA, feature engineering, and performance evaluation.
+
 ### 🔹 [House Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_gurgaon)  
 Used Random Forest to estimate housing prices. Demonstrates preprocessing pipeline and model evaluation.
 
