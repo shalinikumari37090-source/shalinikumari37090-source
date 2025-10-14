@@ -26,10 +26,14 @@ Welcome to my GitHub profile! I'm Shalini — a data enthusiast who thrives on t
 
 - ## 📂 Explore My Work
 
-- [🔍 Machine Learning Projects](#machine-learning-projects)
-- [📊 Dashboards & Visualizations](#dashboards--visualizations)
-- [🧠 Writing & Research](#writing--research)
+### 🔹 [CarDekho Car Price Prediction](https://github.com/shalinikumari37090-source/project_cardekho)  
+Linear Regression model to predict used car prices. Includes EDA, feature engineering, and performance metrics.
 
+### 🔹 [House Price Prediction](https://github.com/shalinikumari37090-source/project_gurgaon)  
+Used Random Forest to estimate housing prices. Demonstrates preprocessing pipeline and model evaluation.
+
+### 🔹 [Dashboard Design with Power BI](https://github.com/shalinikumari37090-source/powerbi-sales-dashboard)  
+Interactive sales dashboard built in Power BI. Highlights filtering, drill-downs, and visual storytelling.
 
 ## 🌱 Currently Exploring
 - Deep learning fundamentals with PyTorch
