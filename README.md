@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm Shalini — a data enthusiast who thrives on t
 
 - ## 📂 Explore My Work
 
-### 🔹 [CarDekho Car Price Prediction](https://github.com/shalinikumari37090-source/project_cardekho)  
+### 🔹 [CarDekho Car Price Prediction](https://github.com/shalinikumari37090-source/project_car_dekho)  
 Linear Regression model to predict used car prices. Includes EDA, feature engineering, and performance metrics.
 
 ### 🔹 [House Price Prediction](https://github.com/shalinikumari37090-source/project_gurgaon)  
