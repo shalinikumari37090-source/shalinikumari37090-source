@@ -1,5 +1,11 @@
 # 👩‍💻 Shalini Kumari | Data Analyst & Aspiring Data Scientist
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
 Welcome to my GitHub profile! I'm Shalini — a data enthusiast who thrives on transforming raw datasets into meaningful insights and interactive stories. Whether it's debugging a stubborn pipeline or designing a dashboard that speaks for itself, I bring persistence, precision, and creativity to every challenge.
 
 ## 🔍 What I Do
