@@ -24,6 +24,13 @@ Welcome to my GitHub profile! I'm Shalini — a data enthusiast who thrives on t
 - **[Data Pipeline Debugger](link)**: A hands-on project focused on troubleshooting file handling and JSON workflows
 - **[Power BI Dashboard Showcase](link)**: Real-time insights with clean design and dynamic filtering
 
+- ## 📂 Explore My Work
+
+- [🔍 Machine Learning Projects](#machine-learning-projects)
+- [📊 Dashboards & Visualizations](#dashboards--visualizations)
+- [🧠 Writing & Research](#writing--research)
+
+
 ## 🌱 Currently Exploring
 - Deep learning fundamentals with PyTorch
 - Advanced visualization techniques for storytelling
