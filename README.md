@@ -48,7 +48,9 @@ Interactive sales dashboard built in Power BI. Highlights filtering, drill-downs
 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/extraterrestrial-being-59647735a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
-- 🌐 [Portfolio](your-link)
+- 🌐 [Portfolio]🔗 https://github.com/shalinikumari37090-source/resume
+
+
 - ✉️ Reach out for collaboration, feedback, or just a good data chat!
 
 ---
