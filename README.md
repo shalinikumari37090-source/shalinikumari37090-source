@@ -35,7 +35,7 @@ Built a RandomForestRegressor model to estimate used car prices. Includes EDA, f
 ### 🔹 [House Price Prediction](https://github.com/shalinikumari37090-source/ml-models/tree/main/project_gurgaon)  
 Used Random Forest to estimate housing prices. Demonstrates preprocessing pipeline and model evaluation.
 
-[📂 Coders of Codebook Folder](https://github.com/shalinikumari37090-source/data-analysis-using-pure-Python/tree/main/coder%20of%20codebook)
+### 🔹 [Analysis of CodeBook](https://github.com/shalinikumari37090-source//tree/main/project_gurgaon)  
 
 ### 🔹 [Dashboard Design with Power BI](https://github.com/shalinikumari37090-source/powerbi-sales-dashboard)  
 Interactive sales dashboard built in Power BI. Highlights filtering, drill-downs, and visual storytelling.
